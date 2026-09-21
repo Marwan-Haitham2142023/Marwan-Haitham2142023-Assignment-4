@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# .NET / Visual Studio
+*.slnx
+
+# Specific project file
+LeetCode.csproj
+
