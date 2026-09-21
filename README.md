@@ -3,42 +3,43 @@ SIMULATION · Software House & Academy · simulationeg.com
 # Academy Schedule Analyzer
 
 **Student Name:** Marwan Haitham
-**Cohort:** Group 3
+**Cohort:** (write your cohort here)
 **Assignment:** Assignment 4
 
 ## Project
 
-[AcademyScheduleAnalyzer/](AcademyScheduleAnalyzer/)
+[AcademyScheduleAnalyzer/](Submission/AcademyScheduleAnalyzer/)
 
 A C# console application that analyzes academy session schedules.
 
 ## LeetCode
 
-[LeetCode/README.md](LeetCode/README.md)
+[LeetCode/README.md](Submission/LeetCode/README.md)
 
 ## LinkedIn
 
-[LinkedIn/README.md](LinkedIn/README.md)
+[LinkedIn/README.md](Submission/LinkedIn/README.md)
 
 ## Benchmark
 
-[BENCHMARK.md](BENCHMARK.md)
+[BENCHMARK.md](Submission/BENCHMARK.md)
 
 BenchmarkDotNet comparison of `string` concatenation vs `StringBuilder`
-(100 / 1,000 / 10,000 / 100,000 iterations, with memory allocation).
+(100 / 1,000 / 10,000 / 100,000 iterations, including memory allocations).
 
 ## How to Run
 
 ### Requirements
-- .NET SDK (the version used in this project: .NET 10)
+- .NET SDK (this project uses .NET 10)
 
 ### Run the console application
+
 ```bash
-cd AcademyScheduleAnalyzer/AcademyScheduleAnalyzer
+cd Submission/AcademyScheduleAnalyzer
 dotnet run -c Release
 ```
 
 ### Notes
 - Run in **Release** mode. It is required for accurate benchmark results.
-- The BenchmarkDotNet run may take several minutes. Close other heavy programs while it runs.
+- The BenchmarkDotNet run can take several minutes, so close other heavy programs while it runs.
 - Benchmark output files are generated in `BenchmarkDotNet.Artifacts/results/`.
