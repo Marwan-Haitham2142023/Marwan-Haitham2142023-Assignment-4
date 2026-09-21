@@ -18,7 +18,7 @@ A C# console application that analyzes academy session schedules.
 
 ## LinkedIn
 
-[LinkedIn/README.md](Submission/LinkedIn/)
+[LinkedIn/README.md](Submission/Linkedin/)
 
 ## Benchmark
 
