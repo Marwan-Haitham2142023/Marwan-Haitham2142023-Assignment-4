@@ -14,15 +14,15 @@ A C# console application that analyzes academy session schedules.
 
 ## LeetCode
 
-[LeetCode/README.md](Submission/LeetCode/README.md)
+[LeetCode/README.md](Submission/LeetCode/)
 
 ## LinkedIn
 
-[LinkedIn/README.md](Submission/LinkedIn/README.md)
+[LinkedIn/README.md](Submission/LinkedIn/)
 
 ## Benchmark
 
-[BENCHMARK.md](Submission/BENCHMARK.md)
+[BENCHMARK.md](Submission/)
 
 BenchmarkDotNet comparison of `string` concatenation vs `StringBuilder`
 (100 / 1,000 / 10,000 / 100,000 iterations, including memory allocations).
